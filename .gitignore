@@ -1,0 +1,28 @@
+# Node
+node_modules/
+package-lock.json
+
+# Python Virtual Environment
+venv/
+env/
+.env
+
+# Python Cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Django
+db.sqlite3
+*.log
+
+# Frontend build
+dist/
+build/
+
+# OS/IDE
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
