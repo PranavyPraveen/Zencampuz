@@ -1,0 +1,13 @@
+name,email,password,department,employee_id,campus
+Dr. Arun Kumar,arun.kumar@fefka.edu,Faculty@123,CSE,FEFKA-CS-001,Main Campus
+Dr. Priya Nair,priya.nair@fefka.edu,Faculty@123,CSE,FEFKA-CS-002,Main Campus
+Dr. Rajan Pillai,rajan.pillai@fefka.edu,Faculty@123,CSE,FEFKA-CS-003,Main Campus
+Mr. Vishnu Sasi,vishnu.sasi@fefka.edu,Faculty@123,CSE,FEFKA-CS-004,Main Campus
+Ms. Deepa Menon,deepa.menon@fefka.edu,Faculty@123,CSE,FEFKA-CS-005,Main Campus
+Dr. Anoop Sreekanth,anoop.sreekanth@fefka.edu,Faculty@123,CSE,FEFKA-CS-006,Main Campus
+Ms. Nisha Thomas,nisha.thomas@fefka.edu,Faculty@123,CSE,FEFKA-CS-007,Main Campus
+Dr. Jijo Mathew,jijo.mathew@fefka.edu,Faculty@123,CSE,FEFKA-CS-008,Main Campus
+Dr. Sreeni Lakshmi,sreeni.lakshmi@fefka.edu,Faculty@123,ECE,FEFKA-EC-001,Main Campus
+Dr. Thomas George,thomas.george@fefka.edu,Faculty@123,ECE,FEFKA-EC-002,Main Campus
+Dr. Manoj Varma,manoj.varma@fefka.edu,Faculty@123,MECH,FEFKA-ME-001,Main Campus
+Mr. Anil Das,anil.das@fefka.edu,Faculty@123,MECH,FEFKA-ME-002,Main Campus

@@ -1,0 +1,16 @@
+{
+    "venvPath": "D:\\ZenCampuz\\backend",
+    "venv": "venv",
+    "include": [
+        "backend"
+    ],
+    "exclude": [
+        "**/node_modules",
+        "**/__pycache__",
+        "backend/venv"
+    ],
+    "reportMissingImports": "error",
+    "reportMissingTypeStubs": false,
+    "pythonVersion": "3.12",
+    "pythonPlatform": "Windows"
+}

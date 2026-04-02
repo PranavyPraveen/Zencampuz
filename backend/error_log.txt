@@ -1,0 +1,2 @@
+duplicate key value violates unique constraint "timetable_roomassignment_class_session_id_room_id_6efbec54_uniq"
+DETAIL:  Key (class_session_id, room_id)=(e8c83b8e-914d-4263-9572-91c804b1f93d, 56be0c8e-9cb1-49c7-be71-aaed52060daf) already exists.

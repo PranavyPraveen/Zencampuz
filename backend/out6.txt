@@ -1,0 +1,10 @@
+Dr Vinod Menon | Main Campus | user.dept=Computer Science and Engineering | resolved=Civil Engineering
+Dr Aswathy Pillai | Main Campus | user.dept=Computer Science and Engineering | resolved=Civil Engineering
+Mr Abhinav George | Main Campus | user.dept=Computer Science and Engineering | resolved=Civil Engineering
+Ms Greeshma Nair | Main Campus | user.dept=Computer Science and Engineering | resolved=Civil Engineering
+Dr Jithin Raj | Main Campus | user.dept=Computer Science and Engineering | resolved=Civil Engineering
+Ms Malavika Das | Main Campus | user.dept=Computer Science and Engineering | resolved=Civil Engineering
+Mr Faizal Rahman | Main Campus | user.dept=Computer Science and Engineering | resolved=Civil Engineering
+Dr Sharath Babu | Main Campus | user.dept=Electronics and Communication | resolved=Civil Engineering
+Mr Dileep Kumar | Main Campus | user.dept=Electronics and Communication | resolved=Civil Engineering
+Ms Neethu Mathew | Main Campus | user.dept=Electronics and Communication | resolved=Civil Engineering

@@ -1,0 +1,12 @@
+User: hod.cse.main@fefka.com (id=798)
+Direct Dept Query: None (id=N/A)
+
+Full Serializer Data Keys:
+['id', 'full_name', 'email', 'phone', 'is_active', 'role', 'tenant', 'campus', 'department', 'department_id', 'profile_id', 'is_hod']
+
+Selected Data Fields:
+department_id: None
+is_hod: True
+role_name: None
+
+Manual get_department_id(user) call: None

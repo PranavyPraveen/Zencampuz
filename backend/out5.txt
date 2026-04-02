@@ -1,0 +1,117 @@
+Dr Mahesh Kumar | Campus: 0de2f08e-7301-42ed-9813-25d488031284 | Dept: Computer Science and Engineering
+Dr Neeraja Thomas | Campus: 0de2f08e-7301-42ed-9813-25d488031284 | Dept: Computer Science and Engineering
+Mr Karthik Menon | Campus: 0de2f08e-7301-42ed-9813-25d488031284 | Dept: Computer Science and Engineering
+Ms Pooja Nair | Campus: 0de2f08e-7301-42ed-9813-25d488031284 | Dept: Computer Science and Engineering
+Dr Sanjay Varghese | Campus: 0de2f08e-7301-42ed-9813-25d488031284 | Dept: Computer Science and Engineering
+Ms Beena George | Campus: 0de2f08e-7301-42ed-9813-25d488031284 | Dept: Computer Science and Engineering
+Mr Ibrahim Khan | Campus: 0de2f08e-7301-42ed-9813-25d488031284 | Dept: Computer Science and Engineering
+Dr Merin Joseph | Campus: 0de2f08e-7301-42ed-9813-25d488031284 | Dept: Computer Science and Engineering
+Dr Charan Raj | Campus: 0de2f08e-7301-42ed-9813-25d488031284 | Dept: Electronics and Communication
+Mr Biju Mathew | Campus: 0de2f08e-7301-42ed-9813-25d488031284 | Dept: Electronics and Communication
+Ms Hiba Rahman | Campus: 0de2f08e-7301-42ed-9813-25d488031284 | Dept: Electronics and Communication
+Dr Liza Paul | Campus: 0de2f08e-7301-42ed-9813-25d488031284 | Dept: Electronics and Communication
+Dr Anil Krishnan | Campus: 0de2f08e-7301-42ed-9813-25d488031284 | Dept: Electronics and Communication
+Ms Roshni Das | Campus: 0de2f08e-7301-42ed-9813-25d488031284 | Dept: Electronics and Communication
+Mr Yaseen Ali | Campus: 0de2f08e-7301-42ed-9813-25d488031284 | Dept: Electronics and Communication
+Dr Preetha Nair | Campus: 0de2f08e-7301-42ed-9813-25d488031284 | Dept: Electronics and Communication
+Dr Naveen Thomas | Campus: d63383ee-7290-4061-8517-65634ab12932 | Dept: Computer Science and Engineering
+Dr Revathi Menon | Campus: d63383ee-7290-4061-8517-65634ab12932 | Dept: Computer Science and Engineering
+Mr Arul Raj | Campus: d63383ee-7290-4061-8517-65634ab12932 | Dept: Computer Science and Engineering
+Ms Diya George | Campus: d63383ee-7290-4061-8517-65634ab12932 | Dept: Computer Science and Engineering
+Dr Melvin Joseph | Campus: d63383ee-7290-4061-8517-65634ab12932 | Dept: Computer Science and Engineering
+Ms Haritha Nair | Campus: d63383ee-7290-4061-8517-65634ab12932 | Dept: Computer Science and Engineering
+Mr. Vishnu Sasi | Campus: None | Dept: None
+Ms. Deepa Menon | Campus: None | Dept: None
+Dr. Anoop Sreekanth | Campus: None | Dept: None
+Ms. Nisha Thomas | Campus: None | Dept: None
+Dr. Jijo Mathew | Campus: None | Dept: None
+Dr. Sreeni Lakshmi | Campus: None | Dept: None
+Dr. Thomas George | Campus: None | Dept: None
+Ms. Ananya Pillai | Campus: None | Dept: None
+Mr. Suresh Babu | Campus: None | Dept: None
+Sanjay Iyer | Campus: None | Dept: None
+Arun Kumar | Campus: None | Dept: None
+Sanjay Iyer | Campus: None | Dept: None
+Prof. John Doe 1 | Campus: None | Dept: None
+Prof. John Doe 2 | Campus: None | Dept: None
+Prof. John Doe 3 | Campus: None | Dept: None
+Prof. John Doe 4 | Campus: None | Dept: None
+Prof. John Doe 5 | Campus: None | Dept: None
+Mr Salman Faris | Campus: d63383ee-7290-4061-8517-65634ab12932 | Dept: Computer Science and Engineering
+Dr Teresa Mathew | Campus: d63383ee-7290-4061-8517-65634ab12932 | Dept: Computer Science and Engineering
+Dr Pranav Pillai | Campus: d63383ee-7290-4061-8517-65634ab12932 | Dept: Electronics and Communication
+Mr Jomon Das | Campus: d63383ee-7290-4061-8517-65634ab12932 | Dept: Electronics and Communication
+Arun Kumar | Campus: None | Dept: None
+Ms Nisha Varma | Campus: d63383ee-7290-4061-8517-65634ab12932 | Dept: Electronics and Communication
+Dr Bindu Krishnan | Campus: d63383ee-7290-4061-8517-65634ab12932 | Dept: Electronics and Communication
+Dr Rahul Xavier | Campus: d63383ee-7290-4061-8517-65634ab12932 | Dept: Electronics and Communication
+Ms Farzana Ali | Campus: d63383ee-7290-4061-8517-65634ab12932 | Dept: Electronics and Communication
+Mr Akshay Mohan | Campus: d63383ee-7290-4061-8517-65634ab12932 | Dept: Electronics and Communication
+Dr Linet Joseph | Campus: d63383ee-7290-4061-8517-65634ab12932 | Dept: Electronics and Communication
+Dr Vinod Menon | Campus: d24b7317-10b5-407b-b8c6-b103c05d9ecd | Dept: Computer Science and Engineering
+Dr Aswathy Pillai | Campus: d24b7317-10b5-407b-b8c6-b103c05d9ecd | Dept: Computer Science and Engineering
+Mr Abhinav George | Campus: d24b7317-10b5-407b-b8c6-b103c05d9ecd | Dept: Computer Science and Engineering
+Ms Greeshma Nair | Campus: d24b7317-10b5-407b-b8c6-b103c05d9ecd | Dept: Computer Science and Engineering
+Dr Jithin Raj | Campus: d24b7317-10b5-407b-b8c6-b103c05d9ecd | Dept: Computer Science and Engineering
+Ms Malavika Das | Campus: d24b7317-10b5-407b-b8c6-b103c05d9ecd | Dept: Computer Science and Engineering
+Mr Faizal Rahman | Campus: d24b7317-10b5-407b-b8c6-b103c05d9ecd | Dept: Computer Science and Engineering
+Dr Sharath Babu | Campus: d24b7317-10b5-407b-b8c6-b103c05d9ecd | Dept: Electronics and Communication
+Mr Dileep Kumar | Campus: d24b7317-10b5-407b-b8c6-b103c05d9ecd | Dept: Electronics and Communication
+Ms Neethu Mathew | Campus: d24b7317-10b5-407b-b8c6-b103c05d9ecd | Dept: Electronics and Communication
+Dr Reuben Varghese | Campus: d24b7317-10b5-407b-b8c6-b103c05d9ecd | Dept: Electronics and Communication
+Dr Kavya Krishnan | Campus: d24b7317-10b5-407b-b8c6-b103c05d9ecd | Dept: Electronics and Communication
+Ms Saniya Ali | Campus: d24b7317-10b5-407b-b8c6-b103c05d9ecd | Dept: Electronics and Communication
+Mr Vishnu Mohan | Campus: d24b7317-10b5-407b-b8c6-b103c05d9ecd | Dept: Electronics and Communication
+Dr Meenakshi Nair | Campus: d24b7317-10b5-407b-b8c6-b103c05d9ecd | Dept: Electronics and Communication
+Dr Rohan Mathew | Campus: 5072c825-f873-4846-a31b-9b87952c91a5 | Dept: Computer Science and Engineering
+Dr Priya S Nair | Campus: 5072c825-f873-4846-a31b-9b87952c91a5 | Dept: Computer Science and Engineering
+Mr Adarsh Pillai | Campus: 5072c825-f873-4846-a31b-9b87952c91a5 | Dept: Computer Science and Engineering
+Ms Keerthana Babu | Campus: 5072c825-f873-4846-a31b-9b87952c91a5 | Dept: Computer Science and Engineering
+Dr Joel Sebastian | Campus: 5072c825-f873-4846-a31b-9b87952c91a5 | Dept: Computer Science and Engineering
+Ms Athira Mohan | Campus: 5072c825-f873-4846-a31b-9b87952c91a5 | Dept: Computer Science and Engineering
+Mr Nikhil Joseph | Campus: 5072c825-f873-4846-a31b-9b87952c91a5 | Dept: Computer Science and Engineering
+Dr Sandra Varghese | Campus: 5072c825-f873-4846-a31b-9b87952c91a5 | Dept: Computer Science and Engineering
+Dr Gokul Raj | Campus: 5072c825-f873-4846-a31b-9b87952c91a5 | Dept: Electronics and Communication
+Mr Nivin Thomas | Campus: 5072c825-f873-4846-a31b-9b87952c91a5 | Dept: Electronics and Communication
+Ms Parvathy Menon | Campus: 5072c825-f873-4846-a31b-9b87952c91a5 | Dept: Electronics and Communication
+Dr Alan Kurian | Campus: 5072c825-f873-4846-a31b-9b87952c91a5 | Dept: Electronics and Communication
+Dr Deepa Krishnan | Campus: 5072c825-f873-4846-a31b-9b87952c91a5 | Dept: Electronics and Communication
+Ms Sneha Paul | Campus: 5072c825-f873-4846-a31b-9b87952c91a5 | Dept: Electronics and Communication
+Mr Riyas Ahmed | Campus: 5072c825-f873-4846-a31b-9b87952c91a5 | Dept: Electronics and Communication
+Dr Nimisha Ravi | Campus: 5072c825-f873-4846-a31b-9b87952c91a5 | Dept: Electronics and Communication
+Dr Arun Kumar | Campus: 15ad8c1c-882e-4fe2-a9af-c3a358fef6ea | Dept: Computer Science and Engineering
+Dr Meera Nair | Campus: 15ad8c1c-882e-4fe2-a9af-c3a358fef6ea | Dept: Computer Science and Engineering
+Mr Rahul Menon | Campus: 15ad8c1c-882e-4fe2-a9af-c3a358fef6ea | Dept: Computer Science and Engineering
+Ms Anjali Das | Campus: 15ad8c1c-882e-4fe2-a9af-c3a358fef6ea | Dept: Computer Science and Engineering
+Dr Nithin George | Campus: 15ad8c1c-882e-4fe2-a9af-c3a358fef6ea | Dept: Computer Science and Engineering
+Ms Lekha Menon | Campus: 15ad8c1c-882e-4fe2-a9af-c3a358fef6ea | Dept: Computer Science and Engineering
+Mr Ajay Krishnan | Campus: 15ad8c1c-882e-4fe2-a9af-c3a358fef6ea | Dept: Computer Science and Engineering
+Dr Sreya Mathew | Campus: 15ad8c1c-882e-4fe2-a9af-c3a358fef6ea | Dept: Computer Science and Engineering
+Dr Vivek Raj | Campus: 15ad8c1c-882e-4fe2-a9af-c3a358fef6ea | Dept: Electronics and Communication
+Mr Suresh Pillai | Campus: 15ad8c1c-882e-4fe2-a9af-c3a358fef6ea | Dept: Electronics and Communication
+Ms Riya George | Campus: 15ad8c1c-882e-4fe2-a9af-c3a358fef6ea | Dept: Electronics and Communication
+Dr Kiran Thomas | Campus: 15ad8c1c-882e-4fe2-a9af-c3a358fef6ea | Dept: Electronics and Communication
+Dr Anoop Varghese | Campus: 15ad8c1c-882e-4fe2-a9af-c3a358fef6ea | Dept: Electronics and Communication
+Ms Gayathri Nair | Campus: 15ad8c1c-882e-4fe2-a9af-c3a358fef6ea | Dept: Electronics and Communication
+Mr Firoz Khan | Campus: 15ad8c1c-882e-4fe2-a9af-c3a358fef6ea | Dept: Electronics and Communication
+Dr Neethu Rajan | Campus: 15ad8c1c-882e-4fe2-a9af-c3a358fef6ea | Dept: Electronics and Communication
+Dr Ashwin Kumar | Campus: 5b08aaf5-37e6-4c3e-a036-8c79dfc5617c | Dept: Computer Science and Engineering
+Dr Lakshmi George | Campus: 5b08aaf5-37e6-4c3e-a036-8c79dfc5617c | Dept: Computer Science and Engineering
+Mr Renjith Nair | Campus: 5b08aaf5-37e6-4c3e-a036-8c79dfc5617c | Dept: Computer Science and Engineering
+Ms Fathima Ali | Campus: 5b08aaf5-37e6-4c3e-a036-8c79dfc5617c | Dept: Computer Science and Engineering
+Dr Tony Mathew | Campus: 5b08aaf5-37e6-4c3e-a036-8c79dfc5617c | Dept: Computer Science and Engineering
+Ms Devika R | Campus: 5b08aaf5-37e6-4c3e-a036-8c79dfc5617c | Dept: Computer Science and Engineering
+Mr Mithun Raj | Campus: 5b08aaf5-37e6-4c3e-a036-8c79dfc5617c | Dept: Computer Science and Engineering
+Dr Aleena James | Campus: 5b08aaf5-37e6-4c3e-a036-8c79dfc5617c | Dept: Computer Science and Engineering
+Dr Rohit Varma | Campus: 5b08aaf5-37e6-4c3e-a036-8c79dfc5617c | Dept: Electronics and Communication
+Mr Bimal Das | Campus: 5b08aaf5-37e6-4c3e-a036-8c79dfc5617c | Dept: Electronics and Communication
+Ms Christina Jose | Campus: 5b08aaf5-37e6-4c3e-a036-8c79dfc5617c | Dept: Electronics and Communication
+Dr Noel Thomas | Campus: 5b08aaf5-37e6-4c3e-a036-8c79dfc5617c | Dept: Electronics and Communication
+Dr Sruthi Menon | Campus: 5b08aaf5-37e6-4c3e-a036-8c79dfc5617c | Dept: Electronics and Communication
+Ms Anagha S | Campus: 5b08aaf5-37e6-4c3e-a036-8c79dfc5617c | Dept: Electronics and Communication
+Mr Shabeer Khan | Campus: 5b08aaf5-37e6-4c3e-a036-8c79dfc5617c | Dept: Electronics and Communication
+Dr Tessa Paul | Campus: 5b08aaf5-37e6-4c3e-a036-8c79dfc5617c | Dept: Electronics and Communication
+Dr Anjana Thomas | Campus: d24b7317-10b5-407b-b8c6-b103c05d9ecd | Dept: Computer Science and Engineering
+Dr. Arun Kumar | Campus: None | Dept: None
+Dr. Priya Nair | Campus: None | Dept: None
+Dr. Rajan Pillai | Campus: None | Dept: None

@@ -1,0 +1,147 @@
+﻿{
+  "count": 4,
+  "next": null,
+  "previous": null,
+  "results": [
+    {
+      "id": "17158837-1410-4b2f-8c32-eb55e1527b77",
+      "campus": "d24b7317-10b5-407b-b8c6-b103c05d9ecd",
+      "campus_name": "Main Campus",
+      "building": "0b592247-ac19-4e0c-9ad8-fd9b9fc37f62",
+      "building_name": "Engineering Block",
+      "building_code": "BLD-A",
+      "floor": "845b81f2-65b6-4d4b-bd13-3c70669a8ac3",
+      "floor_name": "First Floor",
+      "floor_number": 1,
+      "room_type": "ec9f7eec-911c-4b16-808b-526252b471c5",
+      "room_type_name": "Classroom",
+      "room_number": "A-101",
+      "room_name": "",
+      "capacity": 60,
+      "status": "active",
+      "description": null,
+      "department": null,
+      "is_wheelchair_accessible": false,
+      "has_projector": true,
+      "has_video_conferencing": false,
+      "has_smart_board": false,
+      "under_maintenance": false,
+      "available_facilities": [
+        {
+          "id": "a2d68e14-3741-447a-aa53-799440e0c2ba",
+          "name": "Air Conditioning"
+        },
+        {
+          "id": "79ae284d-89dd-41fd-8ef1-8d520efd517e",
+          "name": "Projector"
+        }
+      ],
+      "created_at": "2026-03-10T11:54:42.392086Z"
+    },
+    {
+      "id": "067b288e-77bf-443c-a4ab-2e2b48285d75",
+      "campus": "d24b7317-10b5-407b-b8c6-b103c05d9ecd",
+      "campus_name": "Main Campus",
+      "building": "0b592247-ac19-4e0c-9ad8-fd9b9fc37f62",
+      "building_name": "Engineering Block",
+      "building_code": "BLD-A",
+      "floor": "845b81f2-65b6-4d4b-bd13-3c70669a8ac3",
+      "floor_name": "First Floor",
+      "floor_number": 1,
+      "room_type": "ec9f7eec-911c-4b16-808b-526252b471c5",
+      "room_type_name": "Classroom",
+      "room_number": "A-102",
+      "room_name": "",
+      "capacity": 60,
+      "status": "active",
+      "description": null,
+      "department": null,
+      "is_wheelchair_accessible": false,
+      "has_projector": true,
+      "has_video_conferencing": false,
+      "has_smart_board": false,
+      "under_maintenance": false,
+      "available_facilities": [
+        {
+          "id": "a2d68e14-3741-447a-aa53-799440e0c2ba",
+          "name": "Air Conditioning"
+        },
+        {
+          "id": "79ae284d-89dd-41fd-8ef1-8d520efd517e",
+          "name": "Projector"
+        }
+      ],
+      "created_at": "2026-03-10T11:54:42.392086Z"
+    },
+    {
+      "id": "860ac165-9e46-44e6-8750-9b318d50da78",
+      "campus": "d24b7317-10b5-407b-b8c6-b103c05d9ecd",
+      "campus_name": "Main Campus",
+      "building": "0b592247-ac19-4e0c-9ad8-fd9b9fc37f62",
+      "building_name": "Engineering Block",
+      "building_code": "BLD-A",
+      "floor": "5d749ffb-a3b9-4a23-8a18-6201678d283d",
+      "floor_name": "Second Floor",
+      "floor_number": 2,
+      "room_type": "820c5017-3680-40ca-a14e-d9ed5aadfefe",
+      "room_type_name": "Laboratory",
+      "room_number": "A-203",
+      "room_name": "",
+      "capacity": 30,
+      "status": "active",
+      "description": null,
+      "department": null,
+      "is_wheelchair_accessible": false,
+      "has_projector": true,
+      "has_video_conferencing": false,
+      "has_smart_board": false,
+      "under_maintenance": false,
+      "available_facilities": [
+        {
+          "id": "a2d68e14-3741-447a-aa53-799440e0c2ba",
+          "name": "Air Conditioning"
+        },
+        {
+          "id": "79ae284d-89dd-41fd-8ef1-8d520efd517e",
+          "name": "Projector"
+        }
+      ],
+      "created_at": "2026-03-10T11:54:42.406121Z"
+    },
+    {
+      "id": "d1a81c54-356e-40d4-829a-a7c22a1cb5de",
+      "campus": "d24b7317-10b5-407b-b8c6-b103c05d9ecd",
+      "campus_name": "Main Campus",
+      "building": "3bf33765-37de-4cbf-a41a-3cbbfbb3d027",
+      "building_name": "Science Block",
+      "building_code": "BLD-B",
+      "floor": "efa2147e-0ed7-495c-bbee-650d143eadba",
+      "floor_name": "Ground Floor",
+      "floor_number": 1,
+      "room_type": "ec9f7eec-911c-4b16-808b-526252b471c5",
+      "room_type_name": "Classroom",
+      "room_number": "B-104",
+      "room_name": "",
+      "capacity": 60,
+      "status": "active",
+      "description": null,
+      "department": null,
+      "is_wheelchair_accessible": false,
+      "has_projector": true,
+      "has_video_conferencing": false,
+      "has_smart_board": false,
+      "under_maintenance": false,
+      "available_facilities": [
+        {
+          "id": "a2d68e14-3741-447a-aa53-799440e0c2ba",
+          "name": "Air Conditioning"
+        },
+        {
+          "id": "79ae284d-89dd-41fd-8ef1-8d520efd517e",
+          "name": "Projector"
+        }
+      ],
+      "created_at": "2026-03-10T11:54:42.414842Z"
+    }
+  ]
+}

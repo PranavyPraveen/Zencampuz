@@ -1,0 +1,33 @@
+﻿Profile status: 200
+{
+  "id": 96,
+  "full_name": "Prany p",
+  "email": "delvin.t@mach10global.com",
+  "phone": null,
+  "is_active": true,
+  "role": {
+    "id": 2,
+    "name": "tenant_admin",
+    "description": "Institution Administrator"
+  },
+  "tenant": {
+    "id": 24,
+    "tenant_name": "Fefka",
+    "tenant_code": "FEFKA-C47B",
+    "slug": "fefka",
+    "logo": null,
+    "primary_color": "#e1ff00",
+    "secondary_color": "#1B2A4A",
+    "domain": null,
+    "subdomain": "fefka",
+    "generated_portal_url": "http://fefka.campuzcore.com",
+    "has_resources": true,
+    "has_bookings": true,
+    "has_timetable": true,
+    "has_exams": true,
+    "has_reports": true,
+    "has_notifications": true
+  },
+  "campus": null,
+  "department": null
+}

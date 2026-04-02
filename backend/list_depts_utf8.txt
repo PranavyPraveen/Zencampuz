@@ -1,0 +1,28 @@
+--- Departments ---
+ID: 870371b0-310f-4503-a5dc-8bf4b564462c, Name: Civil Engineering, HOD: None, Campus: d24b7317-10b5-407b-b8c6-b103c05d9ecd
+ID: b06026c4-dc43-4a1d-a44a-5c2ffa9bf867, Name: Civil Engineering (South Campus), HOD: None, Campus: d63383ee-7290-4061-8517-65634ab12932
+ID: ece77b6b-a88f-4951-a09d-c5ad7c18d771, Name: Computer Science & Engineering, HOD: None, Campus: d24b7317-10b5-407b-b8c6-b103c05d9ecd
+ID: e885d25b-85c7-40a3-b3ac-2260f2ef476f, Name: Computer Science & Engineering (Engineering Block Campus), HOD: None, Campus: 15ad8c1c-882e-4fe2-a9af-c3a358fef6ea
+ID: d113bde2-dd9a-41a6-af2c-05c838604786, Name: Computer Science & Engineering (Main Campus), HOD: None, Campus: d24b7317-10b5-407b-b8c6-b103c05d9ecd
+ID: e7b05c53-d167-4d62-8fc1-6cc5ab1628a7, Name: Computer Science & Engineering (Satellite Campus), HOD: None, Campus: 5b08aaf5-37e6-4c3e-a036-8c79dfc5617c
+ID: 2e464b11-da4f-45af-b45e-d6c835048b41, Name: Computer Science & Engineering (Yeswanthpur campus), HOD: None, Campus: 0de2f08e-7301-42ed-9813-25d488031284
+ID: 92d75cd8-bb25-4519-bcce-33752871a0db, Name: Computer Science and Engineering, HOD: None, Campus: None
+ID: 1d85d996-e7ee-475a-8362-309c12832b5e, Name: Computer Science and Engineering, HOD: None, Campus: 24227a39-5dd5-47ac-a66e-63f5ab467fab
+ID: 5fe4312e-a6ae-4e5b-afea-d50c7efc7d4a, Name: Data Science, HOD: None, Campus: d24b7317-10b5-407b-b8c6-b103c05d9ecd
+ID: 51742344-c53b-4141-bdf2-fb8f3eb4791c, Name: Electronics & Communication, HOD: None, Campus: None
+ID: b7571304-b950-4cdb-9845-25ace69a637e, Name: Electronics & Communication, HOD: None, Campus: d24b7317-10b5-407b-b8c6-b103c05d9ecd
+ID: 0e3111c2-f299-4865-9909-7648d06df096, Name: Electronics & Communication (Engineering Block Campus), HOD: None, Campus: 15ad8c1c-882e-4fe2-a9af-c3a358fef6ea
+ID: 2bb2f686-002b-4af7-a64d-aaac4a182fcf, Name: Electronics & Communication (Main Campus), HOD: None, Campus: d24b7317-10b5-407b-b8c6-b103c05d9ecd
+ID: 9c687e0f-d4e1-49c3-bb30-e0d42b65bbda, Name: Electronics & Communication (North Campus), HOD: None, Campus: 5072c825-f873-4846-a31b-9b87952c91a5
+ID: 7977e7c5-fb82-44dc-8c41-8893fda0a1e9, Name: Electronics & Communication (Satellite Campus), HOD: None, Campus: 5b08aaf5-37e6-4c3e-a036-8c79dfc5617c
+ID: 8e502a62-c1a6-4f20-83ab-af46febe51c6, Name: Electronics & Communication (Yeswanthpur campus), HOD: None, Campus: 0de2f08e-7301-42ed-9813-25d488031284
+ID: 9513f617-d48e-4fa7-b1c5-9e055135cc85, Name: Information Technology, HOD: None, Campus: d24b7317-10b5-407b-b8c6-b103c05d9ecd
+ID: b8bccee9-2888-4478-a025-06c8e6ff7771, Name: Mathematics & Sciences, HOD: None, Campus: d24b7317-10b5-407b-b8c6-b103c05d9ecd
+ID: 21d97b16-3b2a-4c7a-b950-e6ab13175d6e, Name: Mechanical Engineering, HOD: None, Campus: d24b7317-10b5-407b-b8c6-b103c05d9ecd
+ID: f55f31ac-d2ce-404b-8300-71419712b329, Name: Mechanical Engineering, HOD: None, Campus: None
+ID: 6eedbc64-7b44-4443-8d53-246c82da4a05, Name: Mechanical Engineering, HOD: None, Campus: None
+ID: 4388ecea-aa2e-4f07-a28b-6bf5914ba9ba, Name: Mechanical Engineering (North Campus), HOD: None, Campus: 5072c825-f873-4846-a31b-9b87952c91a5
+ID: 8b32b801-7fcc-4973-ae7d-8c6e6064d79f, Name: Mechanical Engineering (South Campus), HOD: None, Campus: d63383ee-7290-4061-8517-65634ab12932
+
+--- Users (HODs) ---
+User: hod.cse.main@fefka.com, ID: 798, DeptID on User: N/A

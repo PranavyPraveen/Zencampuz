@@ -1,0 +1,11 @@
+User found: hod.cse.main@fefka.com
+HOD assigned departments:
+HOD Scope IDs: [UUID('ece77b6b-a88f-4951-a09d-c5ad7c18d771'), UUID('d113bde2-dd9a-41a6-af2c-05c838604786')]
+All Programs in Tenant:
+ - [ddfc47f2-98ea-4f26-8393-6bf338eef97b] B.E. Electronics and Communication Engineering -> Dept: Electronics & Communication (Main Campus) (ID: 2bb2f686-002b-4af7-a64d-aaac4a182fcf)
+ - [32db9e93-7611-453b-98b8-5f6a0f2051a2] B.Tech Computer Science and Engineering -> Dept: Computer Science & Engineering (Main Campus) (ID: d113bde2-dd9a-41a6-af2c-05c838604786)
+ - [439410a6-8247-4473-8748-d12412e1b137] M.E. Electronics and Communication Engineering -> Dept: Electronics & Communication (Main Campus) (ID: 2bb2f686-002b-4af7-a64d-aaac4a182fcf)
+ - [ca8f73f5-7f0c-4c75-9a1c-828df3623952] M.Sc Computer Science -> Dept: Computer Science & Engineering (Main Campus) (ID: d113bde2-dd9a-41a6-af2c-05c838604786)
+Programs after HOD filter:
+ - [32db9e93-7611-453b-98b8-5f6a0f2051a2] B.Tech Computer Science and Engineering
+ - [ca8f73f5-7f0c-4c75-9a1c-828df3623952] M.Sc Computer Science

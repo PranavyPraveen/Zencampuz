@@ -1,0 +1,4 @@
+User: hod.cse.main@fefka.com, ID: 798
+No FacultyProfile: CustomUser has no faculty_profile.
+HOD Departments (via head_of_department FK):
+Resolved HOD Dept: Computer Science & Engineering

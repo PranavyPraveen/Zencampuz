@@ -1,0 +1,10 @@
+Dr Mahesh Kumar | Campus: 0de2f08e-7301-42ed-9813-25d488031284 | Dept: Computer Science and Engineering
+Dr Neeraja Thomas | Campus: 0de2f08e-7301-42ed-9813-25d488031284 | Dept: Computer Science and Engineering
+Mr Karthik Menon | Campus: 0de2f08e-7301-42ed-9813-25d488031284 | Dept: Computer Science and Engineering
+Ms Pooja Nair | Campus: 0de2f08e-7301-42ed-9813-25d488031284 | Dept: Computer Science and Engineering
+Dr Sanjay Varghese | Campus: 0de2f08e-7301-42ed-9813-25d488031284 | Dept: Computer Science and Engineering
+Ms Beena George | Campus: 0de2f08e-7301-42ed-9813-25d488031284 | Dept: Computer Science and Engineering
+Mr Ibrahim Khan | Campus: 0de2f08e-7301-42ed-9813-25d488031284 | Dept: Computer Science and Engineering
+Dr Merin Joseph | Campus: 0de2f08e-7301-42ed-9813-25d488031284 | Dept: Computer Science and Engineering
+Dr Charan Raj | Campus: 0de2f08e-7301-42ed-9813-25d488031284 | Dept: Electronics and Communication
+Mr Biju Mathew | Campus: 0de2f08e-7301-42ed-9813-25d488031284 | Dept: Electronics and Communication
