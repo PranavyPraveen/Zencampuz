@@ -1,6 +1,6 @@
 export const themeColors = {
-  background: '#0B1026',
-  surface: '#1B2A4A',
+  background: 'var(--bg-main)',
+  surface: 'var(--bg-surface)',
   primary: '#2563EB',
   secondary: '#22D3EE',
   accent: '#2DD4BF',

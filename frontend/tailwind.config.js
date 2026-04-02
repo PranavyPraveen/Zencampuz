@@ -4,9 +4,16 @@ export default {
     "./index.html",
     "./src/**/*.{js,ts,jsx,tsx}",
   ],
+  darkMode: 'class',
   theme: {
     extend: {
       colors: {
+        background: 'rgb(var(--bg-main) / <alpha-value>)',
+        foreground: 'rgb(var(--text-main) / <alpha-value>)',
+        surface: 'rgb(var(--bg-surface) / <alpha-value>)',
+        'surface-hover': 'rgb(var(--bg-surface-hover) / <alpha-value>)',
+        muted: 'rgb(var(--text-muted) / <alpha-value>)',
+        border: 'rgb(var(--border-main) / <alpha-value>)',
         zen: {
           dark: '#0B1026',
           darker: '#1B2A4A',
@@ -24,5 +31,7 @@ export default {
       }
     },
   },
-  plugins: [],
+  plugins: [
+    require("tailwindcss-animate"),
+  ],
 }

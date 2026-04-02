@@ -1,0 +1,12 @@
+--- START LOG ---
+Navigating to login...
+CONSOLE ERROR: Failed to load resource: net::ERR_CONNECTION_REFUSED
+CONSOLE ERROR: Failed to load resource: net::ERR_CONNECTION_REFUSED
+CONSOLE ERROR: Failed to load resource: net::ERR_CONNECTION_REFUSED
+CONSOLE ERROR: Failed to load resource: net::ERR_CONNECTION_REFUSED
+CONSOLE ERROR: Failed to load resource: net::ERR_CONNECTION_REFUSED
+CONSOLE ERROR: Failed to load resource: net::ERR_CONNECTION_REFUSED
+CONSOLE ERROR: Failed to load resource: net::ERR_CONNECTION_REFUSED
+CONSOLE ERROR: Failed to load resource: net::ERR_CONNECTION_REFUSED
+CONSOLE ERROR: Failed to load resource: the server responded with a status of 404 (Not Found)
+SCRIPT EXCEPTION: No element found for selector: input[type="email"]
